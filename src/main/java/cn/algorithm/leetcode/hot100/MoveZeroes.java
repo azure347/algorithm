@@ -1,4 +1,4 @@
-package cn.algorithm.hot100;
+package cn.algorithm.leetcode.hot100;
 
 /**
  * 283. 移动零

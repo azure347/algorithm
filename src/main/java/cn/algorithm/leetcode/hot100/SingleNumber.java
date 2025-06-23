@@ -1,4 +1,4 @@
-package cn.algorithm.hot100;
+package cn.algorithm.leetcode.hot100;
 
 /**
  * 136. 只出现一次的数字
